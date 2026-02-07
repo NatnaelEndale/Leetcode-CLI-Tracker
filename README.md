@@ -18,10 +18,10 @@ This project focuses on clean CLI design, JSON-based data persistence, and modul
 - File I/O – reading and writing local data
 
 ## 📂 Project Structure
-leetcode-tracker/
-│
-├── main.py          # Entry point (CLI commands) and Core logic (add, list problems)
-├── track.json        # Stores solved problems
+leetcode-tracker/\n
+│\n
+├── main.py          # Entry point (CLI commands) and Core logic (add, list problems)\n
+├── track.json        # Stores solved problems\n
 └── README.md
 
 ## ⚙️ Usage
@@ -60,6 +60,6 @@ If no problems are recorded, the program safely returns an empty list.
 
 ## 👤 Author
 
-Natnael Endale
-Computer Science Student
-Addis Ababa University
+Natnael Endale\n
+Computer Science Student\n
+Addis Ababa University\n
