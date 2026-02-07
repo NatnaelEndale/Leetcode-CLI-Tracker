@@ -19,7 +19,7 @@ This project focuses on clean CLI design, JSON-based data persistence, and modul
 
 ## 📂 Project Structure
 leetcode-tracker/<br/> 
-│
+│<br/>
 ├── main.py          # Entry point (CLI commands) and Core logic (add, list problems)<br/>
 ├── track.json        # Stores solved problems<br/>
 └── README.md
