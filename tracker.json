@@ -1,0 +1,24 @@
+[
+  {
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "topic": "Sliding Window",
+    "time_spent": 20
+  },
+  {
+    "id": 567,
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "topic": "Sliding Window",
+    "time_spent": 20
+  },
+  {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "topic": "Sliding Window",
+    "time_spent": 30,
+    "date_solved": "2026-02-04"
+  }
+]
