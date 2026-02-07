@@ -35,14 +35,14 @@ python main.py list
 If no problems are recorded, the program safely returns an empty list.
 
 # 🧩 Example Stored Data (JSON)
-[
-  {
-    "id": 567,
-    "title": "Permutation in String",
-    "difficulty": "Medium",
-    "topic": "Sliding Window"
-    "date": "2026-02-05"
-  }
+[<br/>
+  {<br/>
+    "id": 567,<br/>
+    "title": "Permutation in String",<br/>
+    "difficulty": "Medium",<br/>
+    "topic": "Sliding Window"<br/>
+    "date": "2026-02-05"<br/>
+  }<br/>
 ]
 
 ## 🧠 What I Learned
